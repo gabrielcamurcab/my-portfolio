@@ -152,7 +152,6 @@ body {
 .project__image {
   width: 282px;
   height: 400px;
-  object-fit: cover;
 }
 
 .project__controls {
