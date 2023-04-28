@@ -1,7 +1,7 @@
 export default [
   {
     text: 'Personotes: Aplicativo de anotações pessoais utilizando Laravel.',
-    image: 'project-1.jpg',
+    image: 'project-1.png',
   },
   {
     text: 'Personotes: Aplicativo de anotações pessoais utilizando Laravel.',
